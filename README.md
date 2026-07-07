@@ -40,7 +40,7 @@
 ### 方式一：git clone（推荐）
 
 ```bash
-git clone https://github.com/你的用户名/solo-as-team.git
+git clone https://github.com/HuangYuan1024/solo-as-team.git
 ```
 
 把目录复制到 Trae skills 目录：
