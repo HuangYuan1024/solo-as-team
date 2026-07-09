@@ -1,0 +1,6 @@
+# 二进制文件声明，防止 CRLF 和编码转换损坏
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
