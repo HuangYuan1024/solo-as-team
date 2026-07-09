@@ -81,10 +81,10 @@ cp -r solo-as-team ~/.trae-cn/skills/
 5. 导入`solo-as-team.zip` 文件
 
 **Trae IDE下的操作：**
-![alt text](.\image\TraeIDE下的操作.png)
+![Trae IDE下的操作](image/TraeIDE下的操作.png)
 
 **Trae Work下的操作：**
-![alt text](.\image\TraeWork下的操作.png)
+![Trae Work下的操作](image/TraeWork下的操作.png)
 
 ### 安装验证
 
